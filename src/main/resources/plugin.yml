@@ -1,0 +1,6 @@
+name: LuckPermsAlerts
+main: me.anutley.luckpermsalerts.LuckPermsAlerts
+version: ${version}
+api-version: 1.13
+depend: [LuckPerms]
+authors: [ANutley]
